@@ -4,6 +4,11 @@
 * L = 600 mL
 * XL = 650 mL
 
+Set 1: Ratio 1:1
+
+Set 2: Ratio 1:2
+
+Set 3: ratio 1:3
 
 *En un pulmón sano y sin PEEP.
 
