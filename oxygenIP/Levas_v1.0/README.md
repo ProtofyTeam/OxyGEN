@@ -1,7 +1,8 @@
-S=500 mL,
-M=550 mL,
-L=600 mL,
-XL=650 mL
+* XS = 450mL
+* S = 500 mL
+* M = 550 mL
+* L = 600 mL
+* XL = 650 mL
 
 
 *En un pulmón sano y sin PEEP.
