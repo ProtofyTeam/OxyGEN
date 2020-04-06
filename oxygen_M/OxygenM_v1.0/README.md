@@ -1,9 +1,9 @@
 # OxyGEN V1.0
 
 
-Primera version de OxyGEN
+Primera versión de OxyGEN
 
-Esta versión esta pensada para producirse con herramientas de corte de madera basicas (sierra de mano, caladora...), usando madera de 20mm
+Esta versión está pensada para producirse con herramientas de corte de madera básicas (sierra de mano, caladora...), usando madera de 20mm
 
 -------------------------------------------
 
