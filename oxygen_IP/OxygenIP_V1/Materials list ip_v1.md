@@ -1,4 +1,4 @@
-#Bill of materials for  IP_v1:
+#Material's list for  IP_v1:
 
 
 * 1	Inox Sheet 1 mm	
