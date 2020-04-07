@@ -8,7 +8,7 @@ To fulfill this mission, OxyGEN created an open hardware, low cost and low tech 
 
 There are 2 different versions of OxyGEN. The maker version "OxyGEN-M" and the industrial version "OxyGEN-IP".
 
-​* **OxyGEN-M** is designed for makers and can be built using common tools and no special machinery or materials are needed. 
+* **OxyGEN-M** is designed for makers and can be built using common tools and no special machinery or materials are needed. 
 
 * **OxyGEN-IP** is the version for industrial scale production. Foldforming metalworking machinery and engineering knowledge is needed to build OxyGEN-IP.
 
@@ -22,9 +22,9 @@ OxyGEN-IP has received authorization from the AEMPS to be used in clinical inves
 **OxyGEN is not a certified medical device. Always use OxyGEN under the supervision of qualified medical personnel. Incorrect use of the machine can result in serious injury or death.**
 
 
-You can find all the information available on our [web] (https://www.oxygen.protofy.xyz/?lang=es)
+You can find all the information available on our [web](https://www.oxygen.protofy.xyz/?lang=es)
 
-You can also find us at [Discord] (https://discord.gg/yyYQxEG)
+You can also find us at [Discord](https://discord.gg/yyYQxEG)
 
 For any other questions, you can write to us at oxygen@protofy.xyz
 
