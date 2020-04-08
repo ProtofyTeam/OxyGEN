@@ -1,4 +1,4 @@
-#Material's list for V5M:
+#Bill Of Material for V5M:
 
  * 2 threaded rod M8 190mm
  * 2 M8 90mm threaded rod
