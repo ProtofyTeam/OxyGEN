@@ -24,7 +24,7 @@
 * 2	Micro Switch
 * 1	Operating Light 230V AC 5W	
 * 1	Plug Ø40 mm	
-* 1	Diode Imax ≥ 150 A, Pd(25ºC) ≥ 5 W	
+* 1	Diode Imax ≥ 5 A, Pd(25ºC) ≥ 5 W	
 * 1	Power Connector IEC C14 with Switch and Fuse	
 * 1	Power Cable IEC C13 to Faston	
 * 1	Cable AWG 16 Approx. 1 m	
