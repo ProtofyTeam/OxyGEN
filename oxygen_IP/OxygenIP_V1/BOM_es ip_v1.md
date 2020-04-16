@@ -23,7 +23,7 @@
 * 2	Final de carrera	
 * 1	Luz de funcionamiento 230V AC 5W	
 * 1	Tapón Ø40 mm	
-* 1	Diodo Imax ≥ 150 A, Pd(25ºC) ≥ 5 W	
+* 1	Diodo Imax ≥ 5 A, Pd(25ºC) ≥ 5 W	
 * 1	Conector Alimentación IEC C14 con Interruptor y Fusible	
 * 1	Cable Alimentación IEC C13 a Faston	
 * 1	Cable AWG 16 Aprox. 1 m	
