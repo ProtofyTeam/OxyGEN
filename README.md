@@ -12,7 +12,7 @@ There are 2 different versions of OxyGEN. The maker version "OxyGEN-M" and the i
 
 * **OxyGEN-IP** is the version for industrial scale production. Foldforming metalworking machinery and engineering knowledge is needed to build OxyGEN-IP.
 
-OxyGEN-IP has sucessfully passed clinical tests in vitro and in vivo.
+OxyGEN-IP has sucessfully passed clinical tests "in vitro" and "in vivo".
 
 OxyGEN-IP has received authorization from the AEMPS to be used in clinical investigation in Hospital Clinic and Hospital Germans Trias i Pujol.
 
@@ -45,7 +45,7 @@ Hay dos versiones diferentes de OxyGEN. La versión maker "OxyGEN-M" y la versi�
 * **OxyGEN-IP** es la versión diseñada para la producción industrial a gran escala. Se necesita maquinaria industrial y conocimientos de ingeniería para construirla. 
 
 
-OxyGEN-IP ha pasado satifactoriamente pruebas de laboratorio "in vitro" e "in vivo". 
+OxyGEN-IP ha pasado satisfactoriamente pruebas de laboratorio "in vitro" e "in vivo". 
 
 OxyGEN-IP ha recibido autorización de la AEMPS para su uso en estudios clínicos en el Hospital Clinic y el Hospital Germans Trias i Pujol.
 
